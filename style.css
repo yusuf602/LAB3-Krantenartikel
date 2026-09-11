@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(15, 180, 192);
+
+}
+
+.vloot1 {
+    float: left;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.vloot2 {
+    float: right;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.vloot3 {
+    float: left;
+    margin: 20px;
+    border: 2px solid black;
+}
